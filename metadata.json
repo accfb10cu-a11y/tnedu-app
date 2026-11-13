@@ -1,0 +1,6 @@
+{
+  "name": "TNedu - Nộp Bài Online",
+  "description": "Hệ thống nộp bài trực tuyến TNedu hiện đại với React, TypeScript, Tailwind CSS và Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
